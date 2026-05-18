@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Interface AG (rodar com F5)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\interface_ag.py",
+      "console": "integratedTerminal",
+      "python": "C:\\Users\\giuli\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+      "justMyCode": true
+    }
+  ]
+}
